@@ -1,0 +1,6 @@
+framework module Pods_RyanairApp {
+  umbrella header "Pods-RyanairApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
